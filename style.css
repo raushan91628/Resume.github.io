@@ -9,12 +9,12 @@ header h1 {
 }
 
 
-img {
+#abhishek {
     height: 260px;
     width: 200px;
     border-radius: 2px;
     display:block;
-    margin-left: 1200px;
+    margin-left: 1170px;
     margin-bottom: -10px;
     margin-top: -20px;
 }
@@ -56,13 +56,14 @@ body{
     #pssingh
     {
         margin-left: 1060px;
+        
        
     }
     #raushan
     {
         background-color: lightseagreen;
         margin-bottom: px;
-        margin-top: 250px;
+        margin-top: 100px;
     }
     #gulsan
     {
@@ -90,15 +91,16 @@ body{
    #push
    {
     margin-left: 1050px;
-    margin-top: -18px;
-    color: darkgrey;
+    margin-top: -70px;
+    margin-bottom: 5px;
    
    }
    #labelll
    {
        margin-left: 1000px;
-       margin-top: -50px;
+       margin-top: -500px;
        color:dodgerblue;
+       margin-bottom: -30px;
    }
    #kumar
    {
@@ -114,7 +116,7 @@ body{
    #labell
    {
     margin-left: 890px;
-    color: deepskyblue;
+    color:dodgerblue;
    }
    #kumars
    {
@@ -122,7 +124,6 @@ body{
     margin-right: 0px;
     margin-top: -200px;
     margin-bottom: 200px;
-    color: aqua;
    }
    body{
     background-color:rgb(244, 240, 255);
@@ -141,6 +142,37 @@ body{
    {
     margin-left: 970px;
     margin-bottom: -5px;
-    margin-top: -200px;
+    margin-top: -150px;
    
+   }
+  
+   #hello
+   {
+    margin-left: 950px;
+    margin-bottom: -50px;
+    margin-top: -500px;
+   color:dodgerblue;
+ 
+   }
+   #singhgolu
+   {
+    margin-right: 10px;
+    margin-left: 150px;
+    height: 170px;
+    width: 170px;
+    margin-bottom: 50px;
+    margin-top: -200px;
+   border-radius: 100px;
+   }
+   #ph
+   {
+    margin-left: 1018px;
+   margin-top: 56px;
+   color:dodgerblue;
+   }
+   #github
+   {
+    margin-left: 888px;
+    margin-top: -11px;
+    color:dodgerblue;
    }
